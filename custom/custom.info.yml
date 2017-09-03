@@ -1,0 +1,9 @@
+name: custom
+type: module
+description: custom module for axelerant tasks
+core: 8.x
+package: Custom
+
+dependencies:
+  - serialization
+
